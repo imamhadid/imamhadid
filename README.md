@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/imamhadid/imamhadid/master/asset/hadit.svg" width="500">
+  <img src="https://raw.githubusercontent.com/imamhadid/imamhadid/master/asset/hadit.svg" width="250">
   <br>
   
   Hi, I'm Imam Hadid Gunawan - aka Hadit
