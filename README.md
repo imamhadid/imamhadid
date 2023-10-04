@@ -55,8 +55,9 @@
   <br>
 	<code>GO</code>
 	<code>PHP</code>
-	<code>JavaScript / TypeScript</code>
+	<code>~JavaScript~ / TypeScript</code>
 	<code>C</code>
+	<code>Dart</code>
 </p>
 
 <br>
@@ -82,6 +83,16 @@
 	<code>Laravel</code>
 	<code>NextJs</code>
 	<code>Go Gin Gonic</code>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Mobile</b>
+  <br>
+  <br>
+	<code>Flutter</code>
 </p>
 
 <br>
