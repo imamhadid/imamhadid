@@ -23,10 +23,6 @@
 <br>
 
 - ♒ I am used to **Self-Study**, and like to try **New Technology**.
-- 📓 I'm a ~~student~~ of [Mulia University Balikpapan](https://universitasmulia.ac.id/).
-- 👨🏻‍💻 I am working at [SATNETCOM]([https://universitasmulia.ac.id/](https://satnetcom.com/)) as a **Full Stack Web**.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **Mobile Apps** everyday.
-- All of my projects are **Private** so there's not much I can show you, only **Assignments From Campus** can be shared 😔.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 
@@ -48,16 +44,17 @@
   <br>
 
 <!-- Tech stack -->
-<h2>Tech stack 🔭</h2>
+<h2>Tech stack 🔭 | Projects ve been Worked</h2>
 <p align="center">
   <b>Languages</b>
   <br>
   <br>
 	<code>GO</code>
 	<code>PHP</code>
-	<code>~JavaScript~ / TypeScript</code>
+	<code>JavaScript / **TypeScript**</code>
 	<code>C</code>
 	<code>Dart</code>
+	<code>**JAVA**</code>
 </p>
 
 <br>
@@ -67,8 +64,11 @@
   <b>Frontend</b>
   <br>
   <br>
-	<code>NextJs</code>
+	<code>**NextJs**</code>
 	<code>NuxtJs</code>
+	<code>VueJs</code>
+	<code>**ReactJs**</code>
+	<code>EJs</code>
 	<code>Blade Laravel</code>
 	
 </p>
@@ -81,7 +81,8 @@
   <br>
   <br>
 	<code>Laravel</code>
-	<code>NextJs</code>
+	<code>**NextJs**</code>
+	<code>ExpressJs</code>
 	<code>Go Gin Gonic</code>
 </p>
 
@@ -99,13 +100,20 @@
 <br>
 
 <p align="center">
-  <b>System Auto</b>
+  <b>Other</b>
   <br>
   <br>
-	<code>Ubuntu LTS</code>
-	<code>Docker</code>
+	<code>**Ubuntu Server**</code>
+	<code>Windows Server 2012-2016</code>
+	<code>Server Dedicated</code>
+	<code>VPS</code>
+	<code>**Docker/Docker Compose**</code>
 	<code>Selenium/Puppeteer</code>
-	<code>Github Action</code>
+	<code>**Github Action**</code>
+	<code>Nginx Proxy Manager</code>
+	<code>Swagger</code>
+	<code>Proxmox</code>
+	<code>**VNC**</code>
 </p>
 
 <br>
@@ -125,3 +133,5 @@
 Website: [HaDit](https://imamhadid.github.io/)
 <br>
 Credits: [imamhadid](https://github.com/imamhadid)
+
+Support Me For Coffe [sociabuzz](https://sociabuzz.com/hadit120/tribe) or [buymeacoffee](https://www.buymeacoffee.com/had12)
