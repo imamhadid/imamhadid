@@ -40,6 +40,32 @@
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
+  <br>
+
+<h3>Build project</h3>
+
+
+<h5>Vercel</h5>
+
+<a href="https://crm-satnetcom-bpp.vercel.app" target="_blank">
+    <code>CRM - Satnetcom As Full Stack Dev</code>
+  </a> | <code>**NextJs**</code> <code>**MS SQL Server**</code> <code>**MySQL**</code> <code>**Payment Getway**</code> <code>**QuickBooks Desktop Integrated**</code> <code>**Docker Compose**</code> <code>**Material UI**</code> <code>**JWT**</code> <code>**Swagger Documentation**</code> <code>**TypeScript**</code> <code>**PDF Generator**</code> <code>**Firebase**</code> <code>**Prisma**</code>
+
+
+<a href="https://realtime-absensi-spa.vercel.app" target="_blank">
+    <code>Absensi With Location - FIF Group As Full Stack Dev</code>
+  </a> | <code>**VueJs**</code> <code>**MonggoDb**</code> <code>**Prisma**</code> <code>**Geolocation**</code>
+
+<h5>Netlify</h5>
+
+<a href="https://tubular-kitten-774345.netlify.app" target="_blank">
+    <code>Smart City - Universitas Mulia As Backend Dev</code>
+  </a> | <code>**Lumen**</code> <code>**MySQL**</code> <code>**Oaut2**</code>
+
+<a href="https://boisterous-snickerdoodle-2aa19e.netlify.app" target="_blank">
+    <code>Tire Pressure Management System - Satnetcom As Frondend Dev</code>
+  </a> | <code>**VueJs**</code>
   
   <br>
 
@@ -104,7 +130,7 @@
   <br>
   <br>
 	<code>**Ubuntu Server**</code>
-	<code>Windows Server 2012-2016</code>
+	<code>Windows Server 2012-2019</code>
 	<code>Server Dedicated</code>
 	<code>VPS</code>
 	<code>**Docker/Docker Compose**</code>
