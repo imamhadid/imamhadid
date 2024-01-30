@@ -51,6 +51,7 @@
 <a href="https://crm-satnetcom-bpp.vercel.app" target="_blank">
     <code>CRM - Satnetcom As Full Stack Dev</code>
   </a> | <code>**NextJs**</code> <code>**MS SQL Server**</code> <code>**MySQL**</code> <code>**Payment Getway**</code> <code>**QuickBooks Desktop Integrated**</code> <code>**Docker Compose**</code> <code>**Material UI**</code> <code>**JWT**</code> <code>**Swagger Documentation**</code> <code>**TypeScript**</code> <code>**PDF Generator**</code> <code>**Firebase**</code> <code>**Prisma**</code>
+  <br>
 
 
 <a href="https://realtime-absensi-spa.vercel.app" target="_blank">
@@ -62,6 +63,7 @@
 <a href="https://tubular-kitten-774345.netlify.app" target="_blank">
     <code>Smart City - Universitas Mulia As Backend Dev</code>
   </a> | <code>**Lumen**</code> <code>**MySQL**</code> <code>**Oaut2**</code>
+  <br>
 
 <a href="https://boisterous-snickerdoodle-2aa19e.netlify.app" target="_blank">
     <code>Tire Pressure Management System - Satnetcom As Frondend Dev</code>
