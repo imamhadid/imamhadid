@@ -1,17 +1,9 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="./asset/hadit.svg" width="250">
-  <br>
-  
   <img src="./asset/hi.gif" width="100px">  
   Hi, I'm Rest
   <br>
 </h1>
-
-<!-- Counter -->
-<p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/imamhadid&count_bg=%236560f7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
-</p>
 
 <p align="center">
   <b> I'm a passionate programmer and interested in new learning </b>
