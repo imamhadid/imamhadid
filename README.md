@@ -147,11 +147,5 @@
   </a>
 </p>
 
----
-
-
-Website: [HaDit](https://imamhadid.github.io/)
-<br>
-Credits: [imamhadid](https://github.com/imamhadid)
 
 Support Me For Coffe [sociabuzz](https://sociabuzz.com/hadit120/tribe) or [buymeacoffee](https://www.buymeacoffee.com/had12)
