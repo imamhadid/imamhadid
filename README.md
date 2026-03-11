@@ -4,7 +4,7 @@
   <br>
   
   <img src="./asset/hi.gif" width="100px">  
-  Hi, I'm Imam Hadid Gunawan - aka HaDit
+  Hi, I'm Rest
   <br>
 </h1>
 
@@ -22,7 +22,7 @@
 <img align='right' src="./asset/person.gif" width="300">
 <br>
 
-- ♒ I am used to **Self-Study**, and like to try **New Technology**.
+- ♒ I am used to Self-Study, and like to try New Technology.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 
@@ -50,24 +50,24 @@
 
 <a href="https://crm-satnetcom-bpp.vercel.app" target="_blank">
     <code>CRM - Satnetcom As Full Stack Dev</code>
-  </a> | <code>**NextJs**</code> <code>**MS SQL Server**</code> <code>**MySQL**</code> <code>**Payment Getway**</code> <code>**QuickBooks Desktop Integrated**</code> <code>**Docker Compose**</code> <code>**Material UI**</code> <code>**JWT**</code> <code>**Swagger Documentation**</code> <code>**TypeScript**</code> <code>**PDF Generator**</code> <code>**Firebase**</code> <code>**Prisma**</code>
+  </a> | <code>NextJs</code> <code>MS SQL Server</code> <code>MySQL</code> <code>Payment Getway</code> <code>QuickBooks Desktop Integrated</code> <code>Docker Compose</code> <code>Material UI</code> <code>JWT</code> <code>Swagger Documentation</code> <code>TypeScript</code> <code>PDF Generator</code> <code>Firebase</code> <code>Prisma</code>
   <br>
 
 
 <a href="https://realtime-absensi-spa.vercel.app" target="_blank">
     <code>Absensi With Location - FIF Group As Full Stack Dev</code>
-  </a> | <code>**VueJs**</code> <code>**MonggoDb**</code> <code>**Prisma**</code> <code>**Geolocation**</code>
+  </a> | <code>VueJs</code> <code>MonggoDb</code> <code>Prisma</code> <code>Geolocation</code>
 
 <h5>Netlify</h5>
 
 <a href="https://tubular-kitten-774345.netlify.app" target="_blank">
     <code>Smart City - Universitas Mulia As Backend Dev</code>
-  </a> | <code>**Lumen**</code> <code>**MySQL**</code> <code>**Oaut2**</code>
+  </a> | <code>Lumen</code> <code>MySQL</code> <code>Oaut2</code>
   <br>
 
 <a href="https://boisterous-snickerdoodle-2aa19e.netlify.app" target="_blank">
     <code>Tire Pressure Management System - Satnetcom As Frondend Dev</code>
-  </a> | <code>**VueJs**</code>
+  </a> | <code>VueJs</code>
   
   <br>
 
@@ -79,10 +79,10 @@
   <br>
 	<code>GO</code>
 	<code>PHP</code>
-	<code>JavaScript / **TypeScript**</code>
+	<code>JavaScript / TypeScript</code>
 	<code>C</code>
 	<code>Dart</code>
-	<code>**JAVA**</code>
+	<code>JAVA</code>
 </p>
 
 <br>
@@ -92,10 +92,10 @@
   <b>Frontend</b>
   <br>
   <br>
-	<code>**NextJs**</code>
+	<code>NextJs</code>
 	<code>NuxtJs</code>
 	<code>VueJs</code>
-	<code>**ReactJs**</code>
+	<code>ReactJs</code>
 	<code>EJs</code>
 	<code>Blade Laravel</code>
 	
@@ -109,7 +109,7 @@
   <br>
   <br>
 	<code>Laravel</code>
-	<code>**NextJs**</code>
+	<code>NextJs</code>
 	<code>ExpressJs</code>
 	<code>Go Gin Gonic</code>
 </p>
@@ -131,17 +131,17 @@
   <b>Other</b>
   <br>
   <br>
-	<code>**Ubuntu Server**</code>
+	<code>Ubuntu Server</code>
 	<code>Windows Server 2012-2019</code>
 	<code>Server Dedicated</code>
 	<code>VPS</code>
-	<code>**Docker/Docker Compose**</code>
+	<code>Docker/Docker Compose</code>
 	<code>Selenium/Puppeteer</code>
-	<code>**Github Action**</code>
+	<code>Github Action</code>
 	<code>Nginx Proxy Manager</code>
 	<code>Swagger</code>
 	<code>Proxmox</code>
-	<code>**VNC**</code>
+	<code>VNC</code>
 </p>
 
 <br>
@@ -150,8 +150,8 @@
 <!-- Connection -->
 <h2> Connect with me</h2>
 <p align="center">
-  <a href="https://www.instagram.com/adit_vanh" target="_blank">
-    <code><img src="./asset/ig.webp" alt="Hadit" width="40"/></code>
+  <a href="https://www.tiktok.com/@hmnw_97" target="_blank">
+    <code><img src="https://icon2.cleanpng.com/20200922/xqh/transparent-social-media-1713858561643.webp" alt="Rest" width="40"/></code>
   </a>
 </p>
 
